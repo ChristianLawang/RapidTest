@@ -66,7 +66,7 @@ import util.WindowsHelper;
 import utilfx.AutoCompleteComboBoxListener;
 
 public class JadwalPickupController implements Initializable {
-	// blablabla
+	// nama saya christian reynard lawang
 	@FXML
 	AnchorPane anchorPaneContains;
 	@FXML
